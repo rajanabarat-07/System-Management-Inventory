@@ -1,0 +1,55 @@
++------------+------------+----------------------+------------+-----------------+------------------+
+|Kategori    |Merek       |Nama Barang           |ID Barang   |Jumlah Barang    |Harga Barang (Rp) |
++------------+------------+----------------------+------------+-----------------+------------------+
+| Laptop     | Asus       | ASUS TUF             | LAT001     | 100             | 8000000          |
+| Laptop     | Dell       | Dell Inspiron        | LAT002     | 150             | 9000000          |
+| Laptop     | HP         | HP Pavilion          | LAT003     | 120             | 8500000          |
+| Laptop     | Acer       | Acer Aspire          | LAT004     | 200             | 7800000          |
+| Laptop     | Lenovo     | Lenovo ThinkPad      | LAT005     | 180             | 8200000          |
+| Monitor    | Samsung    | Samsung Ultra        | MON006     | 80              | 3000000          |
+| Monitor    | LG         | LG Flatron           | MON007     | 90              | 3200000          |
+| Monitor    | Asus       | ASUS ProArt          | MON008     | 100             | 3500000          |
+| Monitor    | Dell       | Dell UltraSharp      | MON009     | 75              | 4000000          |
+| Monitor    | HP         | HP EliteDisplay      | MON010     | 85              | 3300000          |
+| Keyboard   | Logitech   | Logitech K120        | KEY011     | 250             | 150000           |
+| Keyboard   | Razer      | Razer BlackWidow     | KEY012     | 60              | 2000000          |
+| Keyboard   | Corsair    | Corsair K95          | KEY013     | 45              | 2500000          |
+| Keyboard   | HyperX     | HyperX Alloy         | KEY014     | 100             | 1800000          |
+| Keyboard   | SteelSeries| SteelSeries Apex     | KEY015     | 70              | 2200000          |
+| Mouse      | Logitech   | Logitech MX Master   | MOU016     | 150             | 1200000          |
+| Mouse      | Razer      | Razer DeathAdder     | MOU017     | 130             | 1500000          |
+| Mouse      | Corsair    | Corsair M65          | MOU018     | 140             | 1700000          |
+| Mouse      | HP         | HP Wireless Mouse    | MOU019     | 110             | 300000           |
+| Mouse      | Asus       | ASUS ROG Gladius     | MOU020     | 95              | 2000000          |
+| Printer    | Canon      | Canon Pixma          | PRI021     | 100             | 1500000          |
+| Printer    | Epson      | Epson EcoTank        | PRI022     | 85              | 2500000          |
+| Printer    | HP         | HP DeskJet           | PRI023     | 120             | 1800000          |
+| Printer    | Brother    | Brother HL-L2390DW   | PRI024     | 75              | 2800000          |
+| Printer    | Samsung    | Samsung Xpress       | PRI025     | 90              | 2200000          |
+| Laptop     | Asus       | ASUS ZenBook         | LAT026     | 60              | 14000000         |
+| Laptop     | Dell       | Dell XPS             | LAT027     | 70              | 16000000         |
+| Laptop     | HP         | HP Spectre           | LAT028     | 50              | 15000000         |
+| Laptop     | Acer       | Acer Nitro           | LAT029     | 90              | 13000000         |
+| Laptop     | Lenovo     | Lenovo Yoga          | LAT030     | 85              | 12500000         |
+| Monitor    | Samsung    | Samsung Smart Monitor| MON031     | 70              | 4000000          |
+| Monitor    | LG         | LG UltraGear         | MON032     | 65              | 4500000          |
+| Monitor    | Asus       | ASUS VG27AQ          | MON033     | 60              | 4200000          |
+| Monitor    | Dell       | Dell Alienware       | MON034     | 55              | 5000000          |
+| Monitor    | HP         | HP Omen              | MON035     | 50              | 4700000          |
+| Keyboard   | Logitech   | Logitech G Pro       | KEY036     | 80              | 1800000          |
+| Keyboard   | Razer      | Razer Huntsman       | KEY037     | 75              | 2300000          |
+| Keyboard   | Corsair    | Corsair K70          | KEY038     | 70              | 2100000          |
+| Keyboard   | HyperX     | HyperX Pulsefire     | KEY039     | 85              | 2000000          |
+| Keyboard   | SteelSeries| SteelSeries TKL      | KEY040     | 90              | 1900000          |
+| Mouse      | Logitech   | Logitech G502        | MOU041     | 125             | 1800000          |
+| Mouse      | Razer      | Razer Viper          | MOU042     | 115             | 1600000          |
+| Mouse      | Corsair    | Corsair Sabre        | MOU043     | 105             | 1300000          |
+| Mouse      | HP         | HP Bluetooth Mouse   | MOU044     | 140             | 1000000          |
+| Mouse      | Asus       | ASUS Gaming Mouse    | MOU045     | 130             | 1500000          |
+| Printer    | Canon      | Canon Selphy         | PRI046     | 65              | 2000000          |
+| Printer    | Epson      | Epson SureColor      | PRI047     | 60              | 2800000          |
+| Printer    | HP         | HP LaserJet          | PRI048     | 75              | 2500000          |
+| Printer    | Brother    | Brother DCP-T310     | PRI049     | 85              | 2400000          |
+| Printer    | Samsung    | Samsung ProXpress    | PRI050     | 95              | 2700000          |
+| HP         | Samsung    | Galaxy S23           | HDP034     | 124             | 23000000         |
+| HP         | Vivo       | Vivo Y25             | HDPVY25    | 121             | 2500000          |
